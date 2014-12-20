@@ -15,7 +15,7 @@ mat<- NULL ## mat is the matrix where invesrse of the matrix 'x' is calculated
 
 }
 
-
+ 
 ## This function calculates the inverse of the matrix x created by the makeCacheMatrix function
 ## and it also retrieves the inverse from the cache if the inverse is already calculated
 
